@@ -2,12 +2,12 @@ import firebase from "firebase";
 require("@firebase/firestore");
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA8URZYNDZM816bx1US9DXMz1Ra0bzrH9o",
-  authDomain: "wilyapp-d4952.firebaseapp.com",
-  projectId: "wilyapp-d4952",
-  storageBucket: "wilyapp-d4952.appspot.com",
-  messagingSenderId: "690423895839",
-  appId: "1:690423895839:web:0fc9718379abab5c14822a"
+  apiKey: "AIzaSyB7KqfdfmlWSKQqbcLtQmtyWoFqqTZg3FE",
+  authDomain: "e-library-dbe9a.firebaseapp.com",
+  projectId: "e-library-dbe9a",
+  storageBucket: "e-library-dbe9a.appspot.com",
+  messagingSenderId: "966490386919",
+  appId: "1:966490386919:web:ad364e9558bd36b9fe8d42"
 };
 
 firebase.initializeApp(firebaseConfig);
